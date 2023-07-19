@@ -1,4 +1,4 @@
-# point_system_mobile
+# point system mobile
 
 A new Flutter project.
 
