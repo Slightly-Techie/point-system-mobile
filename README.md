@@ -1,6 +1,10 @@
 # point system mobile
 
-A new Flutter project.
+## Getting Started
+
+1. Clone the project
+2. run `flutter pub get`
+3. run riverpod code-geneator with `dart run build_runner watch`
 
 ## Folder Structure
 
