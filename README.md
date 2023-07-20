@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Folder Structure
 
+```
 poimt_system_mobile/
-
 |-- lib/
 |   |-- src/
 |   |    |-- data/   
@@ -32,3 +32,4 @@ poimt_system_mobile/
 |
 |-- pubspec.yaml
 |-- ...
+```
